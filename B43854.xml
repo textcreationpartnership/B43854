@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Round-heads lecture being a true description of a Round-heads conversation, vvhich you may heare in this following relation.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43854</idno><idno type="EEBO-CITATION">625106356</idno>
+  <idno type="VID">211332</idno>
+  <idno type="EEBO-PROQUEST">2248531243</idno>
+  
+            <idno type="OCLC"> 625106356</idno>
+            <idno type="OCLC">ocn 625106356</idno>
+            <idno type="STC">Wing R2008A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211332)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Round-heads lecture being a true description of a Round-heads conversation, vvhich you may heare in this following relation.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for Francis Coles, in the Old-baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"To the tune of, Neighbour Roger, or, They cannot hold their wits together."</note>
+                  <note>Imperfect: faded print, stained and torn.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roundheads --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:211332:1"/>
+            <pb facs="tcp:211332:2"/>
+            <head>The Round-Heads Lecture.</head>
+            <argument>
+               <lg>
+                  <l>Being a true description of a Round-Heads conversation,</l>
+                  <l>VVhich you may heare in this following Relation.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, Neighbour Roger, Or, they cannot hold their wits together.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <head>A Tub Lecture.</head>
+                  </figure>
+               </p>
+               <lg>
+                  <l>VVIll you please to hear a Song,</l>
+                  <l>though it want both rime and reason,</l>
+                  <l>It was pen d to doe no wrong,</l>
+                  <l>but for description at this season,</l>
+                  <l>Of he or she what ere they be,</l>
+                  <l>that wish Church Orders quite confounded,</l>
+                  <l>Yet make a show where ere they goe</l>
+                  <l>of fervent zeale, I meane a <hi>Round-head.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>First heele have a smoothing tongue,</l>
+                  <l>next hee'le learne for to dissemble,</l>
+                  <l>And when he heares of wilfull wrongs</l>
+                  <l>then sigh, and looke as he would Tremble,</l>
+                  <l>Next of all then let him fall</l>
+                  <l>to pride of heart and secret bravery,</l>
+                  <l>Speaking still against all ill.</l>
+                  <l>that is the cloake to hide his knavery.</l>
+               </lg>
+               <lg>
+                  <l>Let Charity be used much,</l>
+                  <l>in words at length and not in actions,</l>
+                  <l>For tis the common use of such,</l>
+                  <l>not to do't but give directions,</l>
+                  <l>They will be loath to sweare an Oath,</l>
+                  <l>by yea and nay you may believe them,</l>
+                  <l>But for their games they will take paines,</l>
+                  <l>to cheat and lye and never grieve them.</l>
+               </lg>
+               <lg>
+                  <l>The Common Prayer they like it not,</l>
+                  <l>for they are wise and can make better,</l>
+                  <l>And such a teacher they have got,</l>
+                  <l>confutes it all in word and letter,</l>
+                  <l>For they can raile, mens hearts to quaile,</l>
+                  <l>with deepe damnation for their sinning,</l>
+                  <l>Yet to amend heele nere intend,</l>
+                  <l>for to transgresse hee's now beginning.</l>
+               </lg>
+               <lg>
+                  <l>But hee's a very worthy man,</l>
+                  <l>and undertakes more then hee's able,</l>
+                  <l>And in a Tub sometimes heele stand,</l>
+                  <l>in Hay-barne, Sheepe-house, or in Stable,</l>
+                  <l>While all the rout that comes about,</l>
+                  <l>to heare his Doctrine, Saints he cals them,</l>
+                  <l>They vow and sweare they nere did heare,</l>
+                  <l>such worthy things as he hath told them,</l>
+               </lg>
+               <lg>
+                  <l>They will not heare of Wedding Kings,</l>
+                  <l>for to be used in their marriage,</l>
+                  <l>But sayes they're superstitious things,</l>
+                  <l>and doth Religion much disparage,</l>
+                  <l>They are but vaine, and things prophane,</l>
+                  <l>and therefore it no whit behoves them,</l>
+                  <l>So to be tyde unto the Bride,</l>
+                  <l>but doe it as the Spirit moves them.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:211332:2"/>
+               <head>The second Part,</head>
+               <opener>To the same Tune</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>NO Pater-noster no: no Creed</l>
+                  <l>in their petitions they will mention,</l>
+                  <l>And holds ther's nothing good indéed,</l>
+                  <l>but what is done through their invention:</l>
+                  <l>Prayers that are old, in vaine they hold,</l>
+                  <l>which can with God no favour merit,</l>
+                  <l>And therefore they w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll nothing say,</l>
+                  <l>but as thei'r moved by the spirit.</l>
+               </lg>
+               <lg>
+                  <l>The wisest Schooles they count but fooles,</l>
+                  <l>which doe no more then they have taught them</l>
+                  <l>For Brownists they can preach or pray,</l>
+                  <l>with wit their fathers never bought them:</l>
+                  <l>Then I perceive that wit they have,</l>
+                  <l>they doe receive by inspiration,</l>
+                  <l>No bookes they néed, to learne to read,</l>
+                  <l>if all be true in their relation.</l>
+               </lg>
+               <lg>
+                  <l>Onely the Horne-booke I would have,</l>
+                  <l>you practise at the first beginning,</l>
+                  <l>That they the better may peceive,</l>
+                  <l>the <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iute that comes by fleshly shining:</l>
+                  <l>Yet nere the lesse, I would suppresse,</l>
+                  <l>all o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her Books which now are used.</l>
+                  <l>Lest that the Ghost, which leads you most,</l>
+                  <l>by too much art should be abused.</l>
+               </lg>
+               <lg>
+                  <l>Their haire close to their heads they crop,</l>
+                  <l>and yet not onely for the fashion,</l>
+                  <l>But that the care it should not stop,</l>
+                  <l>from hearing of some rare relation</l>
+                  <l>Therefore his eares he well preparee,</l>
+                  <l>to hearken to an holy Brother,</l>
+                  <l>That in regard, he may be heard,</l>
+                  <l>from one side of the barne to'th other,</l>
+               </lg>
+               <lg>
+                  <l>They count their fathers were but fooles,</l>
+                  <l>who formerly became such debters,</l>
+                  <l>To spend their meanes upon the Schooles,</l>
+                  <l>to teach their sons a few fond letters:</l>
+                  <l>The Christ Crosse row, is enough to show</l>
+                  <l>a child, the rest hee'l quickly gather,</l>
+                  <l>And learne to read, if he proceed,</l>
+                  <l>till he be wiser then his father.</l>
+               </lg>
+               <lg>
+                  <l>And at the last, when they must part,</l>
+                  <l>let Male and Female goe together,</l>
+                  <l>Ioyn'd in hand, and ioyn'd in heart,</l>
+                  <l>and ioyn'd a little for their pleasure:</l>
+                  <l>First for kisses they'l agree,</l>
+                  <l>and what comes next you may coniecture,</l>
+                  <l>So the wicked doe not see,</l>
+                  <l>and so breakes off the Round-heads Lecture.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for Francis Coles, in the Old-baily. 1642.</p>
+            <pb facs="tcp:211332:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
